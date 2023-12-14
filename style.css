@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+.title h1{
+    text-align: center;
+    font-family: 'Playpen Sans', cursive;
+}
+.box1{
+    width: 250px;
+  
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.box2{
+    width: 250px;
+  
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.box3{
+    width: 250px;
+  
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.box{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+     font-family: 'Playpen Sans', cursive;
+     margin-top: 50px;
+}
